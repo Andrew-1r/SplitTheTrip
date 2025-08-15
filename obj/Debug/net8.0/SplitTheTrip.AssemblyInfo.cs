@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitTheTrip")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e144a1ca71fbf7d966aecdbb992d0735b35cef4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f725b2a687139735c89f1603f12f69f58f121c8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitTheTrip")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitTheTrip")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
